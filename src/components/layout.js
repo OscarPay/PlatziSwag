@@ -17,7 +17,7 @@ const Layout = ({ children }) => (
     <Content>
       <main>{children}</main>
       <Footer>
-        con <span role='img' aria-label='emoji'> ❤️ </span> por
+        Creado con <span style={{margin: '0 .5rem'}} role='img' aria-label='emoji'> ❤️ </span> por
         <a href="https://www.gatsbyjs.org">Oscar</a>
       </Footer>
     </Content>
