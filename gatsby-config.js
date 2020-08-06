@@ -8,6 +8,7 @@ module.exports = {
     description: `El mejor swag de platzi disponible para ti`,
     author: `@oscar.pay`,
   },
+  pathPrefix: "/PlatziSwag",
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-stripe`,
